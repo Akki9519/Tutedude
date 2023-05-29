@@ -1,3 +1,5 @@
+![Screenshot 2023-05-29 164049](https://github.com/Akki9519/Tutedude/assets/103363760/c1868ed0-e24b-46ef-87da-3fae3f537668)
+![Screenshot 2023-05-29 164102](https://github.com/Akki9519/Tutedude/assets/103363760/2fab6cf7-2916-46ca-9718-8c5245ac3c57)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
